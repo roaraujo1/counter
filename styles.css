@@ -1,6 +1,6 @@
 .button {
   text-align: center;
-  margin-top: 55%;
+  
 }
 .btn {
   background-color: pink;
@@ -9,6 +9,12 @@
   border: none;
   border-radius: 4px;
 }
-.btn:hover{
-    background-color: violet;
+.btn:hover {
+  background-color: violet;
+}
+#countLabel {
+  text-align: center;
+  display: block;
+  font-size: 10em;
+  ;
 }
